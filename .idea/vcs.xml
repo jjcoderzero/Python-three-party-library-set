@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/etcd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jenkinsapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/paramiko" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/psutil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyyaml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redis-py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/urllib3" vcs="Git" />
+  </component>
+</project>
